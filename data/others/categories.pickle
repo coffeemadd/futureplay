@@ -1,0 +1,1429 @@
+(lp0
+S'financial services'
+p1
+aS'fintech'
+p2
+aS'identity management'
+p3
+aS'mobile apps'
+p4
+aS'consumer'
+p5
+aS'customer service'
+p6
+aS'information services'
+p7
+aFnan
+aS'digital media'
+p8
+aS'education'
+p9
+aS'finance'
+p10
+aS'biotechnology'
+p11
+aS'health care'
+p12
+aS'medical device'
+p13
+aS'3d technology'
+p14
+aS'industrial engineering'
+p15
+aS'mechanical engineering'
+p16
+aS'robotics'
+p17
+aS'photography'
+p18
+aS'big data'
+p19
+aS'food and beverage'
+p20
+aS'shopping'
+p21
+aS'social entrepreneurship'
+p22
+aS'sustainability'
+p23
+aS'fleet management'
+p24
+aS'shipping'
+p25
+aS'transportation'
+p26
+aS'therapeutics'
+p27
+aS'consumer lending'
+p28
+aS'micro lending'
+p29
+aS'saas'
+p30
+aS'apps'
+p31
+aS'information technology'
+p32
+aS'e-commerce'
+p33
+aS'analytics'
+p34
+aS'cyber security'
+p35
+aS'security'
+p36
+aS'cloud computing'
+p37
+aS'cloud infrastructure'
+p38
+aS'software'
+p39
+aS'social innovation'
+p40
+aS'genetics'
+p41
+aS'energy'
+p42
+aS'energy storage'
+p43
+aS'renewable energy'
+p44
+aS'gaming'
+p45
+aS'internet'
+p46
+aS'media and entertainment'
+p47
+aS'retail'
+p48
+aS'child care'
+p49
+aS'mhealth'
+p50
+aS'enterprise'
+p51
+aS'procurement'
+p52
+aS'insurance'
+p53
+aS'events'
+p54
+aS'fitness'
+p55
+aS'wellness'
+p56
+aS'mining'
+p57
+aS'precious metals'
+p58
+aS'food processing'
+p59
+aS'electronics'
+p60
+aS'manufacturing'
+p61
+aS'messaging'
+p62
+aS'mobile'
+p63
+aS'health diagnostics'
+p64
+aS'bitcoin'
+p65
+aS'marijuana'
+p66
+aS'point of sale'
+p67
+aS'hospitality'
+p68
+aS'network hardware'
+p69
+aS'retail technology'
+p70
+aS'wireless'
+p71
+aS'banking'
+p72
+aS'b2b'
+p73
+aS'virtual reality'
+p74
+aS'enterprise software'
+p75
+aS'travel'
+p76
+aS'human resources'
+p77
+aS'edtech'
+p78
+aS'open source'
+p79
+aS'industrial'
+p80
+aS'legal'
+p81
+aS'clinical trials'
+p82
+aS'ad exchange'
+p83
+aS'ad network'
+p84
+aS'ad retargeting'
+p85
+aS'ad server'
+p86
+aS'advertising'
+p87
+aS'advertising platforms'
+p88
+aS'artificial intelligence'
+p89
+aS'brand marketing'
+p90
+aS'digital marketing'
+p91
+aS'local advertising'
+p92
+aS'mobile advertising'
+p93
+aS'social media advertising'
+p94
+aS'innovation management'
+p95
+aS'personal health'
+p96
+aS'embedded systems'
+p97
+aS'speech recognition'
+p98
+aS'employment'
+p99
+aS'recruiting'
+p100
+aS'employee benefits'
+p101
+aS'predictive analytics'
+p102
+aS'home renovation'
+p103
+aS'database'
+p104
+aS'data visualization'
+p105
+aS'gpu'
+p106
+aS'communication hardware'
+p107
+aS'consumer electronics'
+p108
+aS'hardware'
+p109
+aS'location based services'
+p110
+aS'wearables'
+p111
+aS'broadcasting'
+p112
+aS'tv'
+p113
+aS'tv production'
+p114
+aS'video streaming'
+p115
+aS'greentech'
+p116
+aS'email'
+p117
+aS'web hosting'
+p118
+aS'communities'
+p119
+aS'private social networking'
+p120
+aS'religion'
+p121
+aS'consulting'
+p122
+aS'marketplace'
+p123
+aS'outsourcing'
+p124
+aS'battery'
+p125
+aS'supply chain management'
+p126
+aS'energy efficiency'
+p127
+aS'solar'
+p128
+aS'data storage'
+p129
+aS'machine learning'
+p130
+aS'text analytics'
+p131
+aS'esports'
+p132
+aS'video games'
+p133
+aS'product management'
+p134
+aS'aerospace'
+p135
+aS'recycling'
+p136
+aS'waste management'
+p137
+aS'product research'
+p138
+aS'space travel'
+p139
+aS'automotive'
+p140
+aS'commercial'
+p141
+aS'developer platform'
+p142
+aS'management information systems'
+p143
+aS'ad targeting'
+p144
+aS'data integration'
+p145
+aS'online games'
+p146
+aS'non profit'
+p147
+aS'clean energy'
+p148
+aS'electric vehicle'
+p149
+aS'energy management'
+p150
+aS'internet of things'
+p151
+aS'computer vision'
+p152
+aS'parenting'
+p153
+aS'semiconductor'
+p154
+aS'marketing'
+p155
+aS'peer to peer'
+p156
+aS'public transportation'
+p157
+aS'rental'
+p158
+aS'printing'
+p159
+aS'home improvement'
+p160
+aS'home services'
+p161
+aS'biopharma'
+p162
+aS'hospital'
+p163
+aS'fashion'
+p164
+aS'lending'
+p165
+aS'cloud management'
+p166
+aS'android'
+p167
+aS'natural language processing'
+p168
+aS'augmented reality'
+p169
+aS'eyewear'
+p170
+aS'medical'
+p171
+aS'it infrastructure'
+p172
+aS'autonomous vehicles'
+p173
+aS'drones'
+p174
+aS'gps'
+p175
+aS'stock exchanges'
+p176
+aS'crowdfunding'
+p177
+aS'emerging markets'
+p178
+aS'funerals'
+p179
+aS'pharmaceutical'
+p180
+aS'furniture'
+p181
+aS'home decor'
+p182
+aS'developer apis'
+p183
+aS'professional services'
+p184
+aS'small and medium businesses'
+p185
+aS'freelance'
+p186
+aS'tutoring'
+p187
+aS'beauty'
+p188
+aS'content'
+p189
+aS'lifestyle'
+p190
+aS'cloud data services'
+p191
+aS'computer'
+p192
+aS'social network'
+p193
+aS'software engineering'
+p194
+aS'wholesale'
+p195
+aS'leasing'
+p196
+aS'real estate'
+p197
+aS'data mining'
+p198
+aS'diabetes'
+p199
+aS'digital entertainment'
+p200
+aS'sports'
+p201
+aS'payments'
+p202
+aS'business intelligence'
+p203
+aS'seo'
+p204
+aS'social media management'
+p205
+aS'compliance'
+p206
+aS'risk management'
+p207
+aS'fraud detection'
+p208
+aS'professional networking'
+p209
+aS'it management'
+p210
+aS'paas'
+p211
+aS'service industry'
+p212
+aS'gift card'
+p213
+aS'image recognition'
+p214
+aS'real time'
+p215
+aS'swimming'
+p216
+aS'flowers'
+p217
+aS'local'
+p218
+aS'nanotechnology'
+p219
+aS'smart building'
+p220
+aS'pet'
+p221
+aS'dental'
+p222
+aS'delivery'
+p223
+aS'delivery service'
+p224
+aS'logistics'
+p225
+aS'agriculture'
+p226
+aS'farmers market'
+p227
+aS'farming'
+p228
+aS'email marketing'
+p229
+aS'marketing automation'
+p230
+aS'children'
+p231
+aS'training'
+p232
+aS'mobile payments'
+p233
+aS'construction'
+p234
+aS'ios'
+p235
+aS'personalization'
+p236
+aS'tourism'
+p237
+aS'travel accommodations'
+p238
+aS'communications infrastructure'
+p239
+aS'virtualization'
+p240
+aS'loyalty programs'
+p241
+aS'data center'
+p242
+aS'property management'
+p243
+aS'sales'
+p244
+aS'real estate investment'
+p245
+aS'personal finance'
+p246
+aS'event management'
+p247
+aS'productivity tools'
+p248
+aS'task management'
+p249
+aS'college recruiting'
+p250
+aS'crm'
+p251
+aS'music'
+p252
+aS'satellite communication'
+p253
+aS'3d printing'
+p254
+aS'cloud security'
+p255
+aS'network security'
+p256
+aS'web development'
+p257
+aS'housekeeping service'
+p258
+aS'sharing economy'
+p259
+aS'wind energy'
+p260
+aS'lead generation'
+p261
+aS'telecommunications'
+p262
+aS'oil and gas'
+p263
+aS'asset management'
+p264
+aS'film production'
+p265
+aS'social media'
+p266
+aS'video'
+p267
+aS'business development'
+p268
+aS'cosmetic surgery'
+p269
+aS'e-learning'
+p270
+aS'life science'
+p271
+aS'app marketing'
+p272
+aS'venture capital'
+p273
+aS'restaurants'
+p274
+aS'intellectual property'
+p275
+aS'accounting'
+p276
+aS'sales automation'
+p277
+aS'residential'
+p278
+aS'document management'
+p279
+aS'millennials'
+p280
+aS'news'
+p281
+aS'young adults'
+p282
+aS'social media marketing'
+p283
+aS'graphic design'
+p284
+aS'sensor'
+p285
+aS'search engine'
+p286
+aS'project management'
+p287
+aS'golf'
+p288
+aS'govtech'
+p289
+aS'online portals'
+p290
+aS'food delivery'
+p291
+aS'consumer goods'
+p292
+aS'career planning'
+p293
+aS'language learning'
+p294
+aS'personal branding'
+p295
+aS'health insurance'
+p296
+aS'water purification'
+p297
+aS'optical communication'
+p298
+aS'brewing'
+p299
+aS'advice'
+p300
+aS'advanced materials'
+p301
+aS'building material'
+p302
+aS'chemical'
+p303
+aS'biometrics'
+p304
+aS'application performance management'
+p305
+aS'fuel'
+p306
+aS'sms'
+p307
+aS'subscription service'
+p308
+aS'air transportation'
+p309
+aS'business information systems'
+p310
+aS'jewelry'
+p311
+aS'shoes'
+p312
+aS'auctions'
+p313
+aS'social recruiting'
+p314
+aS'navigation'
+p315
+aS'publishing'
+p316
+aS'gamification'
+p317
+aS'primary education'
+p318
+aS'direct sales'
+p319
+aS'online auctions'
+p320
+aS'consumer applications'
+p321
+aS'wealth management'
+p322
+aS'blogging platforms'
+p323
+aS'journalism'
+p324
+aS'public relations'
+p325
+aS'neuroscience'
+p326
+aS'casual games'
+p327
+aS'impact investing'
+p328
+aS'commercial real estate'
+p329
+aS'developer tools'
+p330
+aS'cosmetics'
+p331
+aS'e-commerce platforms'
+p332
+aS'trading platform'
+p333
+aS'ride sharing'
+p334
+aS'product design'
+p335
+aS'film'
+p336
+aS'social shopping'
+p337
+aS'product search'
+p338
+aS'franchise'
+p339
+aS'intelligent systems'
+p340
+aS'cleantech'
+p341
+aS'outdoors'
+p342
+aS'group buying'
+p343
+aS'digital signage'
+p344
+aS'industrial automation'
+p345
+aS'market research'
+p346
+aS'crowdsourcing'
+p347
+aS'grocery'
+p348
+aS'self-storage'
+p349
+aS'iaas'
+p350
+aS'home automation'
+p351
+aS'ebooks'
+p352
+aS'collaborative consumption'
+p353
+aS'auto insurance'
+p354
+aS'sporting goods'
+p355
+aS'credit'
+p356
+aS'baby'
+p357
+aS'organic food'
+p358
+aS'b2c'
+p359
+aS'life insurance'
+p360
+aS'web browsers'
+p361
+aS'geospatial'
+p362
+aS'coworking'
+p363
+aS'office administration'
+p364
+aS'skill assessment'
+p365
+aS'ediscovery'
+p366
+aS'architecture'
+p367
+aS'interior design'
+p368
+aS'technical support'
+p369
+aS'textiles'
+p370
+aS'dating'
+p371
+aS'human computer interaction'
+p372
+aS'audio'
+p373
+aS'content creators'
+p374
+aS'content marketing'
+p375
+aS'scheduling'
+p376
+aS'video editing'
+p377
+aS'infrastructure'
+p378
+aS'lead management'
+p379
+aS'consumer software'
+p380
+aS'public safety'
+p381
+aS'video chat'
+p382
+aS'mobile devices'
+p383
+aS'music streaming'
+p384
+aS'hotel'
+p385
+aS'privacy'
+p386
+aS'car sharing'
+p387
+aS'incubators'
+p388
+aS'collaboration'
+p389
+aS'ict'
+p390
+aS'staffing agency'
+p391
+aS'building maintenance'
+p392
+aS'law enforcement'
+p393
+aS'fertility'
+p394
+aS'leisure'
+p395
+aS'lgbt'
+p396
+aS'industrial manufacturing'
+p397
+aS'social bookmarking'
+p398
+aS'enterprise applications'
+p399
+aS'virtual assistant'
+p400
+aS'charity'
+p401
+aS'travel agency'
+p402
+aS'gift'
+p403
+aS'bioinformatics'
+p404
+aS'craft beer'
+p405
+aS'adventure travel'
+p406
+aS'tour operator'
+p407
+aS'continuing education'
+p408
+aS"men's"
+p409
+aS'direct marketing'
+p410
+aS'mining technology'
+p411
+aS'debit cards'
+p412
+aS'web design'
+p413
+aS'lighting'
+p414
+aS'cooking'
+p415
+aS'motion capture'
+p416
+aS'vacation rental'
+p417
+aS'rehabilitation'
+p418
+aS'business travel'
+p419
+aS'virtual world'
+p420
+aS'indoor positioning'
+p421
+aS'mapping services'
+p422
+aS'visual search'
+p423
+aS'higher education'
+p424
+aS'government'
+p425
+aS'social'
+p426
+aS'cause marketing'
+p427
+aS'wired telecommunications'
+p428
+aS'content delivery network'
+p429
+aS'ticketing'
+p430
+aS'fantasy sports'
+p431
+aS'nutrition'
+p432
+aS'erp'
+p433
+aS'universities'
+p434
+aS'seafood'
+p435
+aS'reservations'
+p436
+aS'isp'
+p437
+aS'test and measurement'
+p438
+aS'asic'
+p439
+aS'flash storage'
+p440
+aS'a/b testing'
+p441
+aS'contests'
+p442
+aS"women's"
+p443
+aS'coffee'
+p444
+aS'alternative medicine'
+p445
+aS'diy'
+p446
+aS'property insurance'
+p447
+aS'event promotion'
+p448
+aS'art'
+p449
+aS'video on demand'
+p450
+aS'price comparison'
+p451
+aS'dietary supplements'
+p452
+aS'photo sharing'
+p453
+aS'cycling'
+p454
+aS'virtual workforce'
+p455
+aS'outdoor advertising'
+p456
+aS'rental property'
+p457
+aS'contact management'
+p458
+aS'consumer reviews'
+p459
+aS'usability testing'
+p460
+aS'credit cards'
+p461
+aS'environmental consulting'
+p462
+aS'virtual currency'
+p463
+aS'ux design'
+p464
+aS'handmade'
+p465
+aS'parking'
+p466
+aS'agtech'
+p467
+aS'coupons'
+p468
+aS'cloud storage'
+p469
+aS'film distribution'
+p470
+aS'homeland security'
+p471
+aS'laundry and dry-cleaning'
+p472
+aS'assistive technology'
+p473
+aS'collectibles'
+p474
+aS'data center automation'
+p475
+aS'semantic search'
+p476
+aS'water'
+p477
+aS'same day delivery'
+p478
+aS'simulation'
+p479
+aS'knowledge management'
+p480
+aS'packaging services'
+p481
+aS'natural resources'
+p482
+aS'wine and spirits'
+p483
+aS'embedded software'
+p484
+aS'laser'
+p485
+aS'virtual desktop'
+p486
+aS'cryptocurrency'
+p487
+aS'video conferencing'
+p488
+aS'reputation'
+p489
+aS'web apps'
+p490
+aS'marine transportation'
+p491
+aS'independent music'
+p492
+aS'management consulting'
+p493
+aS'billing'
+p494
+aS'sailing'
+p495
+aS'mothers'
+p496
+aS'nursing and residential care'
+p497
+aS'home health care'
+p498
+aS'affiliate marketing'
+p499
+aS'video advertising'
+p500
+aS'commercial insurance'
+p501
+aS'operating systems'
+p502
+aS'fruit'
+p503
+aS'social assistance'
+p504
+aS'internet radio'
+p505
+aS'podcast'
+p506
+aS'angel investment'
+p507
+aS'cad'
+p508
+aS'facility management'
+p509
+aS'politics'
+p510
+aS'fpga'
+p511
+aS'meeting software'
+p512
+aS'file sharing'
+p513
+aS'freight service'
+p514
+aS'green building'
+p515
+aS'windows'
+p516
+aS'environmental engineering'
+p517
+aS'edutainment'
+p518
+aS'transaction processing'
+p519
+aS'comics'
+p520
+aS'biofuel'
+p521
+aS'biomass energy'
+p522
+aS'property development'
+p523
+aS'elder care'
+p524
+aS'courier service'
+p525
+aS'linux'
+p526
+aS'personal development'
+p527
+aS'q&a'
+p528
+aS'concerts'
+p529
+aS'vertical search'
+p530
+aS'soccer'
+p531
+aS'lingerie'
+p532
+aS'sex industry'
+p533
+aS'sex tech'
+p534
+aS'toys'
+p535
+aS'financial exchanges'
+p536
+aS'hedge funds'
+p537
+aS'animation'
+p538
+aS'drone management'
+p539
+aS'rfid'
+p540
+aS'musical instruments'
+p541
+aS'national security'
+p542
+aS'ehr'
+p543
+aS'tea'
+p544
+aS'music venues'
+p545
+aS'social news'
+p546
+aS'humanitarian'
+p547
+aS'catering'
+p548
+aS'veterinary'
+p549
+aS'timeshare'
+p550
+aS'guides'
+p551
+aS'green consumer goods'
+p552
+aS'corporate training'
+p553
+aS'machinery manufacturing'
+p554
+aS'nfc'
+p555
+aS'qr codes'
+p556
+aS'classifieds'
+p557
+aS'civictech'
+p558
+aS'music education'
+p559
+aS'pc games'
+p560
+aS'private cloud'
+p561
+aS'taxi service'
+p562
+aS'local business'
+p563
+aS'american football'
+p564
+aS'secondary education'
+p565
+aS'plastics and rubber manufacturing'
+p566
+aS'animal feed'
+p567
+aS'presentations'
+p568
+aS'debt collections'
+p569
+aS'elderly'
+p570
+aS'photo editing'
+p571
+aS'psychology'
+p572
+aS'electrical distribution'
+p573
+aS'skiing'
+p574
+aS'physical security'
+p575
+aS'organic'
+p576
+aS'racing'
+p577
+aS'commercial lending'
+p578
+aS'content discovery'
+p579
+aS'civil engineering'
+p580
+aS'nutraceutical'
+p581
+aS'online forums'
+p582
+aS'voip'
+p583
+aS'quantified self'
+p584
+aS'chemical engineering'
+p585
+aS'serious games'
+p586
+aS'freemium'
+p587
+aS'sponsorship'
+p588
+aS'distillery'
+p589
+aS'winery'
+p590
+aS'wedding'
+p591
+aS'quality assurance'
+p592
+aS'recreation'
+p593
+aS'mineral'
+p594
+aS'facilities support services'
+p595
+aS'power grid'
+p596
+aS'archiving service'
+p597
+aS'stem education'
+p598
+aS'livestock'
+p599
+aS'aquaculture'
+p600
+aS'snack food'
+p601
+aS'bakery'
+p602
+aS'alumni'
+p603
+aS'family'
+p604
+aS'warehousing'
+p605
+aS'e-signature'
+p606
+aS'translation service'
+p607
+aS'textbook'
+p608
+aS'social crm'
+p609
+aS'resorts'
+p610
+aS'hydroponics'
+p611
+aS'food trucks'
+p612
+aS'browser extensions'
+p613
+aS'dsp'
+p614
+aS'nightlife'
+p615
+aS'call center'
+p616
+aS'mooc'
+p617
+aS'google glass'
+p618
+aS'sem'
+p619
+aS'reading apps'
+p620
+aS'field support'
+p621
+aS'wood processing'
+p622
+aS'intrusion detection'
+p623
+aS'charter schools'
+p624
+aS'gambling'
+p625
+aS'trade shows'
+p626
+aS'credit bureau'
+p627
+aS'recreational vehicles'
+p628
+aS'fmcg'
+p629
+aS'timber'
+p630
+aS'gift registry'
+p631
+aS'content syndication'
+p632
+aS'document preparation'
+p633
+aS'facial recognition'
+p634
+aS'landscaping'
+p635
+aS'vending and concessions'
+p636
+aS'creative agency'
+p637
+aS'celebrity'
+p638
+aS'presentation software'
+p639
+aS'unified communications'
+p640
+aS'mmo games'
+p641
+aS'forestry'
+p642
+aS'recipes'
+p643
+aS'console games'
+p644
+aS'retirement'
+p645
+aS'local shopping'
+p646
+aS'paper manufacturing'
+p647
+aS'railroad'
+p648
+aS'teenagers'
+p649
+aS'home and garden'
+p650
+aS'emergency medicine'
+p651
+aS'casino'
+p652
+aS'nuclear'
+p653
+aS'basketball'
+p654
+aS'semantic web'
+p655
+aS'audiobooks'
+p656
+aS'gift exchange'
+p657
+aS'foundries'
+p658
+aS'facebook'
+p659
+aS'in-flight entertainment'
+p660
+aS'adult'
+p661
+aS'cms'
+p662
+aS'performing arts'
+p663
+aS'fuel cell'
+p664
+aS'water transportation'
+p665
+aS'theatre'
+p666
+aS'corrections facilities'
+p667
+aS'app discovery'
+p668
+aS'consumer research'
+p669
+aS'multi-level marketing'
+p670
+aS'desktop apps'
+p671
+aS'nightclubs'
+p672
+aS'shopping mall'
+p673
+aS'assisted living'
+p674
+aS'shipping broker'
+p675
+aS'tobacco'
+p676
+aS'virtual goods'
+p677
+aS'spam filtering'
+p678
+aS'penetration testing'
+p679
+aS'music label'
+p680
+aS'playstation'
+p681
+aS'confectionery'
+p682
+aS'boating'
+p683
+aS'museums and historical sites'
+p684
+aS'twitter'
+p685
+aS'janitorial service'
+p686
+aS'eda'
+p687
+aS'underserved children'
+p688
+aS'homeless shelter'
+p689
+aS'hunting'
+p690
+aS'amusement park and arcade'
+p691
+aS'domain registrar'
+p692
+aS'prediction markets'
+p693
+aS'mechanical design'
+p694
+aS'windows phone'
+p695
+aS'diving'
+p696
+aS'tennis'
+p697
+aS'made to order'
+p698
+aS'horticulture'
+p699
+aS'macos'
+p700
+aS'limousine service'
+p701
+aS'webos'
+p702
+aS'google'
+p703
+aS'sns'
+p704
+aS'generation z'
+p705
+aS'outpatient care'
+p706
+aS'industrial design'
+p707
+aS'drm'
+p708
+aS'flash sale'
+p709
+aS'first aid'
+p710
+aS'pollution control'
+p711
+aS'vocational education'
+p712
+aS'fossil fuels'
+p713
+a.

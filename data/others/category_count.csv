@@ -1,0 +1,714 @@
+category,count
+software,15892
+mobile,12275
+health care,10972
+enterprise software,9600
+e-commerce,9173
+internet,8314
+biotechnology,7931
+information technology,6659
+saas,6240
+analytics,5959
+advertising,4872
+manufacturing,4829
+medical,4767
+apps,4493
+social media,4357
+education,3717
+finance,3650
+big data,3482
+fintech,3348
+hardware,3257
+financial services,3200
+medical device,3113
+security,2877
+cloud computing,2782
+video,2703
+retail,2509
+telecommunications,2406
+wireless,2317
+travel,2249
+pharmaceutical,2217
+service industry,2183
+fashion,2102
+electronics,2079
+marketing,2010
+marketplace,2002
+therapeutics,2001
+digital media,1984
+energy,1973
+health diagnostics,1902
+internet of things,1874
+mobile apps,1703
+real estate,1681
+search engine,1656
+semiconductor,1624
+automotive,1611
+machine learning,1592
+content,1572
+information services,1547
+artificial intelligence,1542
+messaging,1526
+consumer electronics,1502
+music,1493
+payments,1492
+b2b,1491
+shopping,1470
+web hosting,1449
+gaming,1418
+transportation,1367
+ios,1347
+sports,1323
+real time,1285
+computer,1258
+publishing,1255
+business intelligence,1223
+collaboration,1205
+logistics,1195
+consulting,1166
+developer tools,1163
+hospitality,1146
+cyber security,1144
+edtech,1135
+renewable energy,1118
+customer service,1102
+media and entertainment,1102
+news,1099
+online portals,1098
+web development,1080
+recruiting,1068
+lifestyle,1062
+crm,1048
+food and beverage,1040
+android,1031
+robotics,1018
+events,1011
+fitness,1010
+human resources,1003
+network security,1001
+social network,954
+developer platform,904
+consumer,900
+photography,891
+genetics,883
+restaurants,878
+solar,871
+product design,868
+marketing automation,867
+video streaming,845
+location based services,838
+infrastructure,835
+small and medium businesses,827
+brand marketing,824
+advertising platforms,823
+industrial,799
+biopharma,797
+communities,796
+predictive analytics,793
+cloud data services,769
+wearables,744
+video games,729
+wellness,721
+local,710
+business development,703
+energy efficiency,703
+mobile payments,701
+e-learning,700
+communications infrastructure,692
+banking,677
+digital entertainment,675
+delivery,670
+oil and gas,669
+market research,664
+tourism,657
+training,643
+life science,643
+crowdsourcing,641
+3d technology,637
+social media marketing,630
+developer apis,625
+open source,623
+clean energy,619
+supply chain management,613
+hospital,612
+insurance,610
+virtualization,596
+agriculture,592
+retail technology,587
+cleantech,583
+mhealth,577
+food processing,556
+email,551
+data visualization,551
+database,546
+risk management,522
+construction,519
+non profit,518
+legal,515
+virtual reality,500
+nanotechnology,498
+beauty,496
+sensor,491
+innovation management,486
+social,477
+mobile devices,459
+voip,458
+audio,458
+professional services,456
+identity management,436
+personalization,434
+crowdfunding,431
+data integration,430
+energy management,428
+aerospace,427
+broadcasting,424
+chemical,421
+cloud infrastructure,420
+personal finance,418
+mobile advertising,417
+web browsers,414
+data center,413
+photo sharing,413
+file sharing,408
+venture capital,399
+ticketing,393
+augmented reality,391
+online games,390
+art,387
+project management,380
+employment,379
+public transportation,377
+accounting,376
+enterprise,374
+e-commerce platforms,374
+water,371
+bitcoin,365
+web design,362
+clinical trials,361
+digital marketing,358
+loyalty programs,347
+outsourcing,345
+navigation,343
+career planning,342
+network hardware,337
+public relations,335
+leisure,334
+sales,333
+event management,327
+email marketing,327
+personal health,320
+optical communication,320
+credit,318
+paas,317
+seo,315
+document management,313
+ad network,313
+lead generation,313
+3d printing,312
+commercial real estate,311
+property management,307
+sustainability,304
+data storage,304
+children,304
+tv,299
+home automation,299
+subscription service,298
+drones,297
+gamification,297
+cloud management,292
+lighting,291
+food delivery,291
+language learning,290
+computer vision,290
+energy storage,283
+management information systems,283
+blogging platforms,272
+test and measurement,267
+home decor,265
+coupons,263
+film,263
+advanced materials,259
+printing,256
+collaborative consumption,254
+wine and spirits,254
+lending,253
+social media management,253
+universities,253
+natural language processing,251
+content delivery network,251
+sales automation,250
+ad targeting,249
+farming,248
+peer to peer,248
+application performance management,248
+online auctions,245
+natural resources,244
+women's,242
+knowledge management,242
+enterprise applications,242
+government,239
+web apps,237
+trading platform,236
+govtech,236
+organic food,236
+furniture,234
+cloud security,234
+recycling,233
+shipping,233
+point of sale,232
+image recognition,226
+price comparison,225
+jewelry,223
+data mining,223
+app marketing,223
+nutrition,218
+industrial automation,217
+parenting,217
+intellectual property,216
+isp,216
+professional networking,215
+rental,215
+billing,214
+consumer goods,210
+environmental engineering,208
+private social networking,206
+architecture,206
+tutoring,205
+waste management,205
+greentech,201
+gift card,200
+electric vehicle,199
+wealth management,198
+auctions,195
+pet,191
+higher education,184
+fraud detection,184
+cooking,182
+video on demand,182
+sms,181
+compliance,180
+ediscovery,179
+it management,179
+content creators,176
+it infrastructure,175
+privacy,175
+management consulting,174
+flash storage,174
+smart building,174
+fuel,172
+communication hardware,172
+pc games,172
+cosmetics,171
+autonomous vehicles,171
+iaas,170
+digital signage,169
+neuroscience,168
+rfid,168
+public safety,168
+battery,165
+advice,164
+content discovery,163
+home renovation,161
+incubators,161
+credit cards,155
+ebooks,155
+semantic search,154
+biometrics,152
+consumer lending,149
+embedded systems,149
+interior design,148
+geospatial,148
+water purification,148
+content marketing,146
+impact investing,146
+sporting goods,146
+toys,144
+electrical distribution,143
+dating,143
+classifieds,141
+sharing economy,140
+national security,138
+shoes,138
+video conferencing,138
+casual games,136
+task management,136
+reservations,135
+grocery,134
+hotel,134
+commercial,134
+car sharing,133
+diabetes,131
+corporate training,129
+text analytics,129
+real estate investment,128
+reputation,128
+video chat,127
+asset management,127
+dental,126
+wholesale,126
+skill assessment,124
+technical support,124
+biofuel,124
+child care,124
+parking,122
+productivity tools,121
+charity,121
+wind energy,120
+intelligent systems,120
+transaction processing,119
+mechanical engineering,117
+graphic design,116
+stock exchanges,116
+business information systems,116
+wedding,113
+eyewear,112
+ride sharing,112
+meeting software,110
+social entrepreneurship,110
+air transportation,110
+delivery service,109
+social crm,107
+home services,107
+journalism,105
+consumer software,105
+cloud storage,105
+speech recognition,104
+procurement,104
+contact management,104
+concerts,103
+staffing agency,101
+power grid,100
+guides,100
+outdoors,99
+building material,99
+social recruiting,97
+music streaming,97
+mapping services,96
+bioinformatics,95
+erp,95
+fleet management,93
+adventure travel,93
+industrial engineering,93
+direct marketing,93
+social media advertising,92
+freelance,92
+product search,92
+employee benefits,92
+software engineering,91
+coffee,90
+lead management,89
+gambling,89
+internet radio,88
+human computer interaction,88
+local business,88
+fantasy sports,88
+dsp,88
+coworking,87
+product research,87
+visual search,87
+semantic web,85
+law enforcement,85
+scheduling,84
+esports,84
+politics,84
+b2c,83
+elder care,83
+film production,83
+family,83
+financial exchanges,82
+organic,81
+emerging markets,80
+health insurance,80
+rental property,80
+browser extensions,79
+craft beer,78
+content syndication,78
+photo editing,77
+home improvement,76
+nfc,76
+presentations,76
+animation,76
+data center automation,75
+auto insurance,75
+mmo games,73
+diy,72
+cad,71
+textiles,71
+satellite communication,71
+social bookmarking,71
+social news,70
+laser,70
+tv production,68
+baby,68
+consumer reviews,68
+local advertising,66
+virtual currency,66
+gift,66
+dietary supplements,66
+video editing,65
+video advertising,65
+mining technology,65
+private cloud,64
+green consumer goods,64
+psychology,64
+direct sales,63
+nightlife,63
+simulation,63
+celebrity,62
+same day delivery,61
+linux,60
+alternative medicine,60
+green building,59
+biomass energy,59
+brewing,59
+social innovation,57
+facebook,57
+gps,57
+veterinary,56
+q&a,55
+handmade,55
+industrial manufacturing,54
+ict,54
+travel accommodations,53
+angel investment,53
+creative agency,53
+eda,52
+product management,52
+environmental consulting,51
+hedge funds,51
+homeland security,51
+agtech,51
+men's,50
+travel agency,50
+self-storage,50
+virtual desktop,49
+college recruiting,49
+indoor positioning,49
+packaging services,48
+unified communications,48
+group buying,47
+space travel,47
+reading apps,46
+sem,46
+freemium,46
+young adults,46
+mineral,46
+quantified self,45
+virtual assistant,44
+qr codes,44
+soccer,44
+alumni,44
+a/b testing,43
+recreation,43
+music venues,43
+home health care,43
+facial recognition,43
+call center,43
+app discovery,42
+tea,42
+translation service,42
+machinery manufacturing,42
+animal feed,42
+taxi service,42
+collectibles,42
+elderly,41
+physical security,41
+operating systems,41
+sponsorship,40
+property development,39
+edutainment,39
+chemical engineering,38
+embedded software,38
+virtual world,38
+cryptocurrency,38
+social shopping,38
+consumer applications,38
+home and garden,36
+online forums,36
+residential,35
+precious metals,35
+mining,34
+housekeeping service,34
+lingerie,34
+nightclubs,34
+plastics and rubber manufacturing,34
+film distribution,33
+mooc,33
+ad server,33
+leasing,33
+theatre,32
+office administration,32
+musical instruments,32
+fuel cell,32
+ux design,32
+independent music,32
+humanitarian,31
+fmcg,31
+flowers,31
+cycling,31
+virtual workforce,30
+laundry and dry-cleaning,29
+ad retargeting,29
+primary education,29
+vertical search,29
+business travel,29
+consumer research,29
+teenagers,29
+motion capture,28
+comics,28
+virtual goods,28
+vacation rental,28
+stem education,28
+micro lending,28
+outdoor advertising,28
+hydroponics,28
+personal branding,27
+charter schools,27
+debit cards,27
+music education,27
+resorts,27
+nutraceutical,26
+cosmetic surgery,26
+quality assurance,26
+snack food,26
+racing,26
+courier service,25
+fruit,25
+drone management,24
+emergency medicine,24
+freight service,24
+facility management,23
+assisted living,22
+sns,22
+religion,22
+fertility,22
+millennials,21
+ehr,21
+farmers market,21
+boating,21
+life insurance,20
+aquaculture,20
+affiliate marketing,20
+mothers,20
+lgbt,19
+podcast,19
+performing arts,19
+google glass,18
+recipes,18
+building maintenance,18
+assistive technology,18
+marijuana,18
+bakery,18
+secondary education,18
+commercial lending,17
+warehousing,17
+civil engineering,17
+in-flight entertainment,16
+property insurance,16
+event promotion,16
+ad exchange,16
+drm,15
+personal development,15
+rehabilitation,15
+gpu,15
+casino,15
+catering,15
+fossil fuels,15
+funerals,15
+field support,15
+mechanical design,14
+underserved children,14
+retirement,14
+winery,14
+gift exchange,14
+intrusion detection,14
+marine transportation,14
+landscaping,14
+cause marketing,14
+usability testing,14
+golf,14
+continuing education,13
+document preparation,13
+cms,13
+fpga,12
+e-signature,12
+sex tech,12
+livestock,12
+textbook,12
+railroad,12
+adult,12
+domain registrar,12
+nursing and residential care,11
+diving,11
+wired telecommunications,11
+homeless shelter,11
+local shopping,11
+tobacco,10
+recreational vehicles,10
+audiobooks,10
+seafood,10
+wood processing,10
+franchise,10
+spam filtering,10
+swimming,9
+playstation,9
+facilities support services,9
+serious games,8
+vending and concessions,8
+shipping broker,8
+asic,8
+gift registry,8
+sex industry,8
+credit bureau,8
+sailing,8
+american football,8
+nuclear,7
+hunting,7
+archiving service,7
+commercial insurance,7
+museums and historical sites,7
+debt collections,6
+music label,6
+janitorial service,6
+google,5
+food trucks,5
+webos,5
+console games,5
+confectionery,5
+basketball,5
+tour operator,5
+made to order,5
+multi-level marketing,5
+paper manufacturing,4
+shopping mall,4
+industrial design,4
+prediction markets,4
+tennis,4
+skiing,4
+forestry,4
+timeshare,3
+contests,3
+social assistance,3
+windows phone,3
+windows,3
+distillery,3
+water transportation,3
+foundries,3
+civictech,3
+generation z,2
+outpatient care,2
+twitter,2
+macos,2
+timber,2
+presentation software,2
+pollution control,2
+corrections facilities,2
+limousine service,1
+trade shows,1
+first aid,1
+desktop apps,1
+vocational education,1
+amusement park and arcade,1
+flash sale,1
+horticulture,1
+penetration testing,1
