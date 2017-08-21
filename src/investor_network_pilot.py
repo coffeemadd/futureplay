@@ -21,7 +21,7 @@ from matplotlib import pyplot as plt
 import networkx as nx
 import numpy as np
 import operator
-get_ipython().magic(u'matplotlib inline')
+#get_ipython().magic(u'matplotlib inline')
 
 
 # In[12]:
@@ -170,7 +170,8 @@ top20 = [uuid for uuid, value in central[:10]]
 
 
 central = pickle.load(open(util_folder + 'investor_centrality_degree.pickle'))
-top20 = [uuid for uuid, value in central[:10]]for i, uuid in enumerate(top20):
+top20 = [uuid for uuid, value in central[:10]]
+for i, uuid in enumerate(top20):
     print df_investors[df_investors['uuid'] == (uuid)]['investor_name'], central[i][1]
 
 
